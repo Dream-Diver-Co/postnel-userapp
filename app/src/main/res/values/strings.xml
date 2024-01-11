@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Post Snel</string>
+    <string name="title_activity_main">Post Snel</string>
+    <string name="package_name">nl.postsnel.app.user</string>
+    <string name="custom_url_scheme">nl.postsnel.app.user</string>
+</resources>

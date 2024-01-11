@@ -1,0 +1,7 @@
+{
+	"appId": "nl.postsnel.app.user",
+	"appName": "Post Snel",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"cordova": {}
+}
